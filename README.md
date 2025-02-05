@@ -292,7 +292,8 @@ newman run newman run Sarowar_Jaman_API.postman_collection.json -e Sarowar_Jaman
 ```
 
 ## Newman Report Summary:
-!https://prnt.sc/QUYY0t02DnUS
+!![image](https://github.com/user-attachments/assets/faa7cba4-0d43-41a4-83b5-d919d783e473)
+
 !https://prnt.sc/WRXWv9BOfJGO
 !https://prnt.sc/2mNoFYEOjVOH
 !https://prnt.sc/U4FFILySpkq5
