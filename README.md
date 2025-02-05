@@ -294,6 +294,9 @@ newman run newman run Sarowar_Jaman_API.postman_collection.json -e Sarowar_Jaman
 ## Newman Report Summary:
 !![image](https://github.com/user-attachments/assets/faa7cba4-0d43-41a4-83b5-d919d783e473)
 
-!https://prnt.sc/WRXWv9BOfJGO
-!https://prnt.sc/2mNoFYEOjVOH
-!https://prnt.sc/U4FFILySpkq5
+!![image](https://github.com/user-attachments/assets/ffee209d-9098-4856-b50d-2c64bbe5b3d7)
+
+!![image](https://github.com/user-attachments/assets/3f1fd85c-bb00-4392-a78e-95731ca2ce41)
+
+!![image](https://github.com/user-attachments/assets/8404b6cc-cd26-4b46-ba0f-351d1f1ea5d6)
+
